@@ -1,9 +1,8 @@
 There are two game modes:
-1 - AI versus AI
-The two groups simply play against each other ad infinitum.
 
-2 - User versus AI
-The user controls the red players whenever one gains control of the ball.
+1 - AI versus AI - The two groups simply play against each other ad infinitum.
+
+2 - User versus AI - The user controls the red players whenever one gains control of the ball.
 
 Use the up and down keys in order to move player holding the ball
 Use the right and left keys in order to give the player the direction you want
