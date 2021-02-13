@@ -1,5 +1,6 @@
 # Soccer-Game
-A graphic soccer game implemented using the JFrame library I wrote as part of my coursework in 
+
+A graphic soccer game implemented using the JFrame library I wrote as part of my coursework in the "Object Oriented Programming" course.
 
 ![me](https://github.com/RoyAbr121/Soccer-Game/blob/master/SoccerGame.gif)
 
